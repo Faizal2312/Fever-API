@@ -17,7 +17,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://chipper-chimera-a1504c.netlify.app/",
+    origin: "https://chipper-chimera-a1504c.netlify.app",
     credentials: true,
   })
 );
