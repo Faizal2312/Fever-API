@@ -7,9 +7,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "engines": {
-    "node": ">15"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
